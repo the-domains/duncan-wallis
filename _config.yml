@@ -1,7 +1,7 @@
 name: Duncan Wallis
 favicon: null
-layout_spectrum: 0.7838127170689404
-typography_spectrum: 0.34747228235937655
+layout_spectrum: 0.99939
+typography_spectrum: 0.73633
 title: From The Outer Edge - The Photography of Duncan Wallis
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3164927011821419
+    - '#020001'
+    - '#3c404b'
+    - '#febab9'
+    - '#906a73'
+    - '#fdede2'
+  brandStrength: 0.25
   lightness: 0.18241103389300406
   saturation: 0.1485799760557711
-  rhythmicContrast: 0.9587145808618516
+  rhythmicContrast: 1
 purpose: []
