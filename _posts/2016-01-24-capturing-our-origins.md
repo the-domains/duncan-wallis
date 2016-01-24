@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T10:42:14.914Z'
+datePublished: '2016-01-24T10:42:14.918Z'
 dateModified: '2016-01-24T10:42:11.165Z'
 title: Capturing Our Origins
 author: []
