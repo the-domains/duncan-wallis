@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: A brief description of where you are in galactic neighbourhood.
-datePublished: '2016-01-24T10:40:37.255Z'
+datePublished: '2016-01-24T10:40:37.288Z'
 dateModified: '2016-01-24T10:40:24.496Z'
 title: From The Outer Edge
 author: []
