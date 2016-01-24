@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: A brief description of where you are in galactic neighbourhood.
-datePublished: '2016-01-24T09:43:40.394Z'
-dateModified: '2016-01-24T09:42:53.854Z'
-title: Welcome To The Outer Edge
+datePublished: '2016-01-24T10:40:37.255Z'
+dateModified: '2016-01-24T10:40:24.496Z'
+title: From The Outer Edge
 author: []
 sourcePath: _posts/2016-01-24-welcome-to-the-outer-edge.md
 published: true
